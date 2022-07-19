@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/static/js/main.16802e17.chunk.js",
+    "main.js.map": "/static/js/main.16802e17.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.732c7195.js",
+    "runtime-main.js.map": "/static/js/runtime-main.732c7195.js.map",
+    "static/js/2.f3262baa.chunk.js": "/static/js/2.f3262baa.chunk.js",
+    "static/js/2.f3262baa.chunk.js.map": "/static/js/2.f3262baa.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.f3262baa.chunk.js.LICENSE.txt": "/static/js/2.f3262baa.chunk.js.LICENSE.txt",
+    "static/media/Big-chicken.38f40071.svg": "/static/media/Big-chicken.38f40071.svg",
+    "static/media/Chicken.3b85aff7.svg": "/static/media/Chicken.3b85aff7.svg",
+    "static/media/Italian-pizza.ab6f9b9a.svg": "/static/media/Italian-pizza.ab6f9b9a.svg",
+    "static/media/Pasta.6bcbc1bb.svg": "/static/media/Pasta.6bcbc1bb.svg",
+    "static/media/hero-bg.b6848381.png": "/static/media/hero-bg.b6848381.png",
+    "static/media/pizza.4b4c4dec.png": "/static/media/pizza.4b4c4dec.png",
+    "static/media/salad.1c6cb1f6.png": "/static/media/salad.1c6cb1f6.png",
+    "static/media/salmon.a873ba35.png": "/static/media/salmon.a873ba35.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.732c7195.js",
+    "static/js/2.f3262baa.chunk.js",
+    "static/js/main.16802e17.chunk.js"
+  ]
+}
